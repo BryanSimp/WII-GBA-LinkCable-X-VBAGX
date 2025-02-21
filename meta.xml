@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>GBA Link Cable Dumper</name>
+	<version>2.6.2</version>
+	<release_date>20250220000000</release_date>
+	<coder>FIX94</coder>
+	<short_description>Gamecube to GBA Link Cable Dumper</short_description>
+	<long_description>An updated version of FIX94's GBA Link Cable Dumper.
+ https://github.com/FIX94/gba-link-cable-dumper
+
+The GameCube controller or a synced Wii Remote can be used.
+
+The data gets sent to vbagx so you can send and recieve save data from you GBA to the emulator and be able to play on your wii 
+</long_description>
+</app>
