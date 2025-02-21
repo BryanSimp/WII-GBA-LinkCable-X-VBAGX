@@ -1,5 +1,6 @@
 # GBA Link Cable Dumper
 A Nintendo Gamecube (GC) and Wii Homebrew App to get Game Boy Advance (GBA) BIOS, ROMs and saves via the GC GBA Link Cable.
+Credits goes to the orignal creator [https://github.com/DamianS-eng/wii-gba-link-cable-dumper](https://github.com/FIX94/gba-link-cable-dumper)
 
 ## Features
 1. Lightweight app launched from a [Homebrew Launcher](https://www.gc-forever.com/wiki/index.php?title=Booting_homebrew#Active_Products), such as the Picoboot or SD Media Launcher on Gamecube, or the Homebrew Channel on Wii.
